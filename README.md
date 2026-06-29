@@ -192,7 +192,11 @@ World_Happiness_Report_EDA.ipynb
 
 # 📸 Sample Visualizations
 
-> Add screenshots of your best charts here after uploading them.
+<img width="876" height="560" alt="Screenshot 2026-06-29 172354" src="https://github.com/user-attachments/assets/003f07f6-50e3-4e7b-aec8-161b8032f1e0" />
+
+<img width="698" height="567" alt="Screenshot 2026-06-29 172733" src="https://github.com/user-attachments/assets/bfb694ad-0b99-435b-a6ba-4e929173c652" />
+
+
 
 Example:
 
